@@ -1,0 +1,16 @@
+$nomention
+$title[Salut voici toutes mes commandes : ]
+$description[- /botinfo 
+- /poll votre question
+- /search votrerecherchesurgoogle
+- /dm @lapersonne votremessage
+- /nicojump (notre pub perso)
+- /invite
+- /emoji
+- /kick @lapersonne
+- /ban @lapersonne
+- /luck
+- /giverole @user @role]
+$footer[/help]
+$color[12ca5b]
+$deletecommand
