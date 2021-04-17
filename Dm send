@@ -1,0 +1,4 @@
+$nomention
+$deletecommand
+$dm[]**$username/$authorID:** $noMentionMessage
+$argsCheck[>2;Pls Mention A **User** And Write your message, example: !dm {user} {message}]
